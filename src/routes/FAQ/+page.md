@@ -8,10 +8,10 @@
   - If the pack has been updated but not approved on CurseForge yet you can find the latest one [here](https://cdn.tw25.net/mc/forge/1.12.2/pylon/cf-profile/latest.zip)
     - If you already have the latest version from the link above, make sure you are using the latest version of the Raw Power addon pack found in the server-files channel of the Discord. If you aren't, download it and put it in <gameDir>/addonpacks/
 - I am not in the Discord server./I want to invite my friend to the Discord server.
-  - The server invite is https://discord.gg/pkdhRvrUGk
+  - The server invite is https://aka.tw25.net/pylon
 - I see people with custom powers, why don't I have one?
   - To get a custom power, you must meet these requirements:
-    - Be apart of the [Discord server](https://discord.gg/pkdhRvrUGk).
+    - Be apart of the [Discord server](https://aka.tw25.net/pylon).
     - Obtain a superpower
     - be a member of the Minecraft server for at least 1 week/have 18 hours of play time on the server/get to xp level 75
       - This requirement doesn't apply to people with the Addon VIP role in the Discord.
