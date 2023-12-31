@@ -1,0 +1,6 @@
+# Frost Altar
+By visiting the Frost Altar using the Celion Device or by going to [23, 70, 455], you can use ice and a Mjolnir or Ultimate Mjolnir to fortify them and remove any enchantments. You can do the same with a Stormbreaker but you would use packed ice instead of ice. You would freeze these weapons in the "It's Cold Out" quest tab.
+# Celion Device
+The Celion is a wrist-mounted device added by Craftfall Essentials. It allows you to teleport to warps setup by admins or to a home point you set. You can also request to teleport to other online players. It allows you to find out who has which infinity stones. If you want you can change the color of it for $1000. The Celion should allow you to spend money to keep your items on death instead of losing them. In the future you will be able to see lore books and a news feed when looking at it. You can open the Celion using COMMA by default.
+# Questing
+In the top-left corner of your inventory you should see an array of buttons added by FTB Library, FTB Utilities, FTB Money and FTB Quests. The button that opens the quest menu looks like a book. When in the quests menu you should see tabs on the left, each one is for a different category or theme. Some quests can be repeated while most can't. You can get rewarded for quests with items, money or experience.
