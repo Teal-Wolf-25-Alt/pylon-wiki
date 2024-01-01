@@ -13,5 +13,5 @@
   - To get a custom power, you must meet these requirements:
     - Be apart of the [Discord server](https://aka.tw25.net/pylon).
     - Obtain a superpower
-    - be a member of the Minecraft server for at least 1 week/have 18 hours of play time on the server/get to xp level 75
+    - be a member of the Minecraft server for at least 1 week/get to xp level 75
       - This requirement doesn't apply to people with the Addon VIP role in the Discord.
